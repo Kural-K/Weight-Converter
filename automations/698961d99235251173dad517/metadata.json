@@ -1,9 +1,9 @@
 {
   "automationId": "698961d99235251173dad517",
   "automationName": "Unnamed Automation",
-  "version": "v1",
+  "version": "v2",
   "mode": "single-file",
   "dependencies": [],
   "environmentVariables": [],
-  "syncedAt": "2026-02-09T04:44:49.754Z"
+  "syncedAt": "2026-02-09T04:49:49.325Z"
 }
